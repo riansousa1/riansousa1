@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá pessoal 👋
 
 - 🌱 Atualmente estou aprendendo JavaScript, HTML5, CSS3, GIT
 - 💬 Me pergunte sobre JavaScript ou GIT
