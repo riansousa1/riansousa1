@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**riansousa1/riansousa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🌱 Atualmente estou aprendendo JavaScript, HTML5, CSS3, GIT
 - 💬 Me pergunte sobre JavaScript ou GIT
 - ⚡ Buscando gerar valor para as pessooas através da tecnologia! 
