@@ -1,6 +1,6 @@
 ### Olá pessoal 👋
 
-- 🌱 Atualmente estou aprendendo JavaScript, HTML5, CSS3, GIT
+- 🌱 Atualmente estou aprendendo Java, MySQL, SpringBoot, GIT
 - 💬 Me pergunte sobre JavaScript ou GIT
 - ⚡ Buscando gerar valor para as pessooas através da tecnologia! 
 
