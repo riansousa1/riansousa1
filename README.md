@@ -1,7 +1,6 @@
 ### Olá pessoal 👋
 
 - 🌱 Atualmente estou aprendendo Java, MySQL, SpringBoot, GIT
-- 💬 Me pergunte sobre Java ou GIT
 - ⚡ Buscando gerar valor para as pessooas através da tecnologia! 
 
 ### Tecnologias
